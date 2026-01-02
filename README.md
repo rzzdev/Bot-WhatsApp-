@@ -56,7 +56,7 @@ Bot ini dikemas dengan berbagai fitur canggih yang siap digunakan, dirancang unt
 ## 📱 Instalasi di Termux (Panduan Lengkap)
 
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 ```
 Tunggu hingga proses selesai. Jika ada pertanyaan, tekan `Y` atau `Enter`.
 
@@ -146,6 +146,6 @@ Kontribusi sangat diterima! Jika kamu memiliki ide untuk fitur baru atau menemuk
 
 <div align="center">
 
-Created for **Bot WhatsApp** users by [MADDEV0307](#-maddev0307) 
+Created for **Bot WhatsApp** users by [RZZDEV](#-rzzdev) 
 
 </div>
