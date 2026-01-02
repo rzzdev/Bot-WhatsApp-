@@ -67,7 +67,7 @@ pkg install git nodejs -y
 ```
 
 ```bash
-git clone https://github.com/your-username/bot-whatsapp.git
+git clone https://github.com/rzzdev/bot-whatsapp.git
 ```
 
 ```bash
