@@ -71,7 +71,7 @@ git clone https://github.com/rzzdev/bot-whatsapp.git
 ```
 
 ```bash
-cd whatsapp-bot
+cd bot-whatsapp 
 ```
 
 ```bash
